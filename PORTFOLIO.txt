@@ -1,0 +1,309 @@
+═════════════════════════════════════════════════════════════════════════════════
+                          PORTFÓLIO PROFISSIONAL
+                              CESAR AUGUSTO
+═════════════════════════════════════════════════════════════════════════════════
+
+👋 OLHA! Sou Cesar Augusto
+
+Desenvolvedor Full Stack apaixonado por criar soluções inovadoras e experiências 
+digitais memoráveis. Com experiência em múltiplas linguagens e tecnologias, transformo 
+ideias em código funcional e escalável.
+
+═════════════════════════════════════════════════════════════════════════════════
+                            🎯 SOBRE MIM
+═════════════════════════════════════════════════════════════════════════════════
+
+Especialista em desenvolvimento web e mobile, com foco em:
+
+• 🚀 FRONTEND MODERNO
+  - React, Next.js, TypeScript
+  - TailwindCSS, Framer Motion
+  - Animações 3D com Three.js
+
+• 🛠️ BACKEND ROBUSTO
+  - PHP Laravel
+  - Python
+  - APIs REST e WebServices
+
+• 📱 MOBILE
+  - Flutter, Dart
+  - React Native
+  - Aplicações iOS/Android
+
+• 🎨 DESIGN & UX
+  - TailwindCSS
+  - Framer Motion
+  - Three.js para experiências 3D
+
+• 🔒 SEGURANÇA
+  - Implementação de assinatura digital
+  - Autenticação segura
+  - Validação robusta
+
+═════════════════════════════════════════════════════════════════════════════════
+                        🏆 PROJETOS EM DESTAQUE
+═════════════════════════════════════════════════════════════════════════════════
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+💼 PORTFÓLIOS PROFISSIONAIS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+1. 3D PORTFOLIO
+   Descrição: Portfólio 3D com interações avançadas e design inovador
+   URL: https://github.com/pccesaraugusto/3d-portfolio
+   Tecnologias: Three.js, React, WebGL
+   
+2. BRAYDENTW.IO
+   Descrição: Portfólio elegante com design responsivo
+   URL: https://github.com/pccesaraugusto/braydentw.io
+   Tecnologias: React, Next.js, TailwindCSS
+   
+3. REACT PORTFOLIO FINAL
+   Descrição: Portfólio com animações Framer Motion
+   URL: https://github.com/pccesaraugusto/react-portfolio-final
+   Tecnologias: React, Framer Motion
+   
+4. VSCODE PORTFOLIO
+   Descrição: Tema VSCode aplicado a portfólio
+   URL: https://github.com/pccesaraugusto/vscode-portfolio
+   Tecnologias: Next.js, TypeScript
+   
+5. MAGIC PORTFOLIO
+   Descrição: Portfólio com interface mágica e responsiva
+   URL: https://github.com/pccesaraugusto/magic-portfolio
+   Tecnologias: Once UI, Next.js
+   
+6. DEVELOPER PORTFOLIO V2
+   Descrição: Portfólio estilo editor de código
+   URL: https://github.com/pccesaraugusto/developer-portfolio-v2
+   Tecnologias: HTML, CSS, JavaScript
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🚀 APLICAÇÕES WEB & SAAS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+1. RELATÓRIOS TÉCNICOS
+   Descrição: Plataforma segura para gestão de relatórios PDF com assinatura 
+              digital e QR Code
+   URL: https://github.com/pccesaraugusto/relatorios-tecnicos
+   Stack: PHP, PostgreSQL, WebPDF
+   Features:
+   - Assinatura digital
+   - Validação por supervisores
+   - Verificação pública via QR Code
+   - Rastreabilidade completa
+
+2. API PEDIDO MUSICAL
+   Descrição: API REST para gerenciamento de pedidos musicais
+   URL: https://github.com/pccesaraugusto/api_pedido_musical_laravel
+   Stack: Laravel, PHP, REST API
+
+3. CLINICA PACEM
+   Descrição: Sistema de gerenciamento de pagamentos para clínicas
+   URL: https://github.com/pccesaraugusto/clinicapacem
+   Stack: PHP, MySQL
+
+4. ANALYTICS
+   Descrição: Alternativa open-source e privacy-friendly ao Google Analytics
+   URL: https://github.com/pccesaraugusto/analytics
+   Stack: JavaScript, Node.js
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📱 APLICAÇÕES MOBILE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+1. MOBILE FINANCE
+   Descrição: Gerenciador de contas pessoais com interface intuitiva
+   URL: https://github.com/pccesaraugusto/mobile-finance
+   Tecnologias: TypeScript, React Native
+
+2. PETKEEPER LITE
+   Descrição: Aplicativo para gerenciamento de animais de estimação
+   URL: https://github.com/pccesaraugusto/petkeeper_lite
+   Tecnologias: C++, Flutter
+
+3. POC PETKEEPER LITE
+   Descrição: Prova de conceito para projeto pet
+   URL: https://github.com/pccesaraugusto/poc_petkeepper_lite
+   Tecnologias: Dart, Flutter
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+💰 APIS E SERVIÇOS BACKEND
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+1. CONTROLE CLIENTE API
+   Descrição: API para gerenciamento de clientes
+   URL: https://github.com/pccesaraugusto/controle-cliente-api
+   Stack: PHP, REST API
+
+2. GERENCIADOR CONTAS API
+   Descrição: API para gerenciamento de contas financeiras
+   URL: https://github.com/pccesaraugusto/gerenciador_contas_api
+   Stack: Shell, Node.js
+
+3. GERENCIADOR CONTAS PESSOAIS
+   Descrição: Plataforma completa de gestão financeira pessoal
+   URL: https://github.com/pccesaraugusto/gerenciador_contas_pessoais_api
+   Stack: Python, Node.js
+
+4. CUSTOMER SERVICE
+   Descrição: Sistema de atendimento ao cliente
+   URL: https://github.com/pccesaraugusto/customer_service
+   Stack: Python
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🔬 IA & MACHINE LEARNING
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+1. PALM-RLHF-PYTORCH
+   Descrição: Implementação de RLHF com arquitetura PaLM 
+              (ChatGPT mas com PaLM)
+   URL: https://github.com/pccesaraugusto/PaLM-rlhf-pytorch
+   Tecnologias: PyTorch, Python
+
+2. PYGWALKER
+   Descrição: Ferramenta interativa para análise visual de dataframes
+   URL: https://github.com/pccesaraugusto/pygwalker
+   Tecnologias: Python
+
+3. QWEN3-VL
+   Descrição: Modelo multimodal LLM da Alibaba Cloud
+   URL: https://github.com/pccesaraugusto/Qwen3-VL
+   Tecnologias: Python
+
+4. RATH
+   Descrição: Plataforma automatizada de análise e visualização de dados
+   URL: https://github.com/pccesaraugusto/Rath
+   Tecnologias: JavaScript, Python
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🎓 APRENDIZADO & REFERÊNCIA
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+1. LISTA MARAVILHOSA OPEN SOURCE
+   Descrição: Curadoria de projetos open-source por nível: iniciante, 
+              intermediário e avançado
+   URL: https://github.com/pccesaraugusto/listamaravilhosaopensource
+
+2. IMERSÃO ALURA
+   Descrição: Treinamento Docker, Cloud Google Cloud - Imersão Alura
+   URL: https://github.com/pccesaraugusto/imersaoalura
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🛠️ FERRAMENTAS & RECURSOS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+1. GOGS
+   Descrição: Serviço Git auto-hospedado sem dor de cabeça
+   URL: https://github.com/pccesaraugusto/gogs
+
+2. ROCKET.CHAT
+   Descrição: Plataforma de comunicação com foco em proteção de dados
+   URL: https://github.com/pccesaraugusto/Rocket.Chat
+
+3. SUPABASE
+   Descrição: Plataforma Postgres dedicada para apps web, mobile e AI
+   URL: https://github.com/pccesaraugusto/supabase
+
+4. KDENLIVE
+   Descrição: Editor de vídeo open-source baseado em MLT Framework
+   URL: https://github.com/pccesaraugusto/kdenlive
+
+5. TEMPLATE0
+   Descrição: Coleção de templates frontend para websites e dashboards
+   URL: https://github.com/pccesaraugusto/template0.com
+
+═════════════════════════════════════════════════════════════════════════════════
+                            🛠️ TECH STACK
+═════════════════════════════════════════════════════════════════════════════════
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+FRONTEND
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+• React
+• Next.js
+• TypeScript
+• TailwindCSS
+• Three.js
+• Framer Motion
+• HTML5
+• CSS3
+• JavaScript
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+BACKEND
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+• PHP
+• Laravel
+• Python
+• Node.js
+• Express.js
+• REST API
+• GraphQL
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+MOBILE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+• Flutter
+• Dart
+• React Native
+• Android
+• iOS
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+BANCO DE DADOS & DEVOPS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+• PostgreSQL
+• MySQL
+• MongoDB
+• Firebase
+• Docker
+• Google Cloud
+• AWS
+• Linux
+• Git
+
+═════════════════════════════════════════════════════════════════════════════════
+                          📊 ESTATÍSTICAS
+═════════════════════════════════════════════════════════════════════════════════
+
+✓ 40+ Projetos em diferentes domínios
+✓ Fullstack Developer com experiência completa
+✓ Especialização em Frontend Moderno e UX
+✓ Segurança e boas práticas implementadas
+✓ Aprendizado contínuo em IA e ML
+✓ Contribuições em projetos open-source
+
+═════════════════════════════════════════════════════════════════════════════════
+                        🤝 VAMOS COLABORAR?
+═════════════════════════════════════════════════════════════════════════════════
+
+Estou sempre aberto a:
+
+✓ Contribuições em projetos open-source
+✓ Oportunidades profissionais e freelancer
+✓ Discussões sobre tecnologia e inovação
+✓ Mentorias e compartilhamento de conhecimento
+
+═════════════════════════════════════════════════════════════════════════════════
+                          📞 ENTRE EM CONTATO
+═════════════════════════════════════════════════════════════════════════════════
+
+GitHub:   https://github.com/pccesaraugusto
+LinkedIn: https://linkedin.com/in/pccesaraugusto
+Email:    contact@example.com
+
+═════════════════════════════════════════════════════════════════════════════════
+                        📈 CONTRIBUIÇÕES & IMPACTO
+═════════════════════════════════════════════════════════════════════════════════
+
+Acredito em código de qualidade, documentação clara e práticas de desenvolvimento 
+sustentáveis. Cada projeto reflete meu compromisso com excelência técnica e inovação.
+
+═════════════════════════════════════════════════════════════════════════════════
+
+Último atualizado: Maio 2026
+
+Feito com ❤️ por Cesar Augusto
+
+═════════════════════════════════════════════════════════════════════════════════
